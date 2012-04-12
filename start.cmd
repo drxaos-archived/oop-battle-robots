@@ -1,0 +1,1 @@
+start java -cp bin;lib/awt-ui-0.4.jar oop.BattleMain
